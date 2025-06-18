@@ -1,0 +1,34 @@
+# Environnement virtuel
+venv/
+.env
+*.env
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs et bases temporaires
+*.log
+*.sqlite3
+*.db
+.DS_Store
+
+# Fichiers de test/cache
+*.pytest_cache/
+*.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.pytest_cache/
+
+# Fichiers d’IDE
+.vscode/
+.idea/
+
+
+#fichier static
+static/
+
+# Dossiers spécifiques à certains outils
+node_modules/
