@@ -110,11 +110,11 @@ Chaque exportation génère un fichier `.zip` contenant des fichiers `.json`, `.
 
 ---
 
-## 📚 Technologies utilisées
+##  Technologies utilisées
 
 - **Frontend** : React, Vite, Tailwind CSS
 - **Backend** : FastAPI, Python 3.10+
-- **Base de données** : MongoDB, PostgreSQL
+- **Base de données** : MongoDB (pour les stockages des meta donnees des differents micro services), PostgreSQL (pour le stockage permanent des utilisateurs)
 - **Authentification** : JWT
 - **Traitement vidéo/image** : OpenCV, MTCNN, InceptionResnetV1, NumPy
 - **Containerisation** : Docker & Docker Compose
