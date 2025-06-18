@@ -1,4 +1,4 @@
-# IAVAP PRO – Plateforme de Vision par Ordinateur en Microservices
+# IAVAP PRO – Plateforme Web de Computer Vision pour l’Annotation, le Traitement et l’Analyse de Vidéos et d’Images 
 Version semi complete du projet
 
 ##  Description
